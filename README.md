@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mattie-B0i
 - 👀 I’m interested in Quantum Information Theory, Condensed Matter Physics, Machine learning and Quantitative Finance.
 - 🌱 I’m currently doing a PhD in Theory of Condensed Matter Physics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on KWANT
 - 📫 Reach me on LinkedIn
 
 <!---
